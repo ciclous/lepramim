@@ -1,0 +1,7 @@
+{
+  "name": "Lepramim: Intelligent Text Reader",
+  "description": "An accessible Text-to-Speech (TTS) application that converts documents and text from photos into high-quality audio using Gemini API.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
